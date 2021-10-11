@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Agency - Start Bootstrap Theme</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+            <div class="container">
+                <a class="navbar-brand" href="#page-top"><img src="assets/img/navbar-logo.svg" alt="..." /></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars ms-1"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
+                     
+                        <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+						 <li class="nav-item"><a class="nav-link" href="#contact">registro</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Masthead-->
+        <header class="masthead">
+            <div class="container">
+                <div class="masthead-subheading">Electroníc Store</div>
+                <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
+                <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
+            </div>
+        </header>
+        <!-- Services-->
+        <section class="page-section" id="services">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Services</h2>
+                    <h3 class="section-subheading text-muted">Contamos con diferentes servicios para equipos informaticos.</h3>
+                </div>
+                <div class="row text-center">
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                        </span>
+						
+                        <h4 class="my-3">Compras en lineas</h4>
+                        
+									<ul>
+    
+    <li>Soporte tecnico</li>
+    <li>Optimizacíon de Computadoras</li>
+	<li>Configuración de Correos Electrónicos</li>
+	<li>Instalacón de impresoras remoto</li>
+	  <li>Instalacón de Software</li>
+	    <li>Configuración de Energia</li>
+		    <li>Instalación. Configuración y Actualización de Antivirus</li>
+			 <li>Problemas de Conflicto de Hardware Basico en Windows </li>
+</ul>
+
+                    </div>
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Politica</h4>
+                        
+							<ul>
+    
+    <li>La empresa cumplirá los requisitos acordados con los clientes</li>
+    <li>Brindar trato justo y esmerado a todos los clientes en sus llamadas, en sus solicitudes y reclamos considerando que el fin de la empresa es el servicio a la comunidad</li>
+	<li>Todos los integrantes de la empresa deben mantener un comportamiento ético</li>
+	<li>Nuestros productos cumplen con todos los estándares de calidad</li>
+	  
+</ul>
+						
+                    </div>
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Web Security</h4>
+                       
+					   <ul>
+    
+    <li>Seguridad Informatica de Red</li>
+    <li>Seguridad Informatica de software</li>
+	<li>Seguridad Informatica de Hardware</li>
+	
+	
+</ul>
+					   
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Portfolio Grid-->
+        <section class="page-section bg-light" id="portfolio">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Portfolio</h2>
+                    <h3 class="section-subheading text-muted">Productos.</h3>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <!-- Portfolio item 1-->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal1">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="https://m.media-amazon.com/images/I/61pyzmeTZ3S._AC_SL1000_.jpg"  alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">HP Laptop</div>
+                                <div class="portfolio-caption-subheading text-muted">Precio:	$6,119.00</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <!-- Portfolio item 2-->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal2">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="https://cdn.pixabay.com/photo/2015/01/21/14/14/apple-606761_960_720.jpg" alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">	IMac</div>
+                                <div class="portfolio-caption-subheading text-muted">
+                                     Precio:	$36,999.00</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <!-- Portfolio item 3-->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="https://m.media-amazon.com/images/I/716fWpV+2kS._AC_SL1500_.jpg" alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">HP Laptop</div>
+                                <div class="portfolio-caption-subheading text-muted">Precio:	$9,299.00</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+                        <!-- Portfolio item 4-->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal4">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="https://m.media-amazon.com/images/I/717VQD-M1pL._AC_SL1500_.jpg" alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">
+                                 Salandens Kit Teclado Y Mouse Alambrico Gamer</div>
+                                <div class="portfolio-caption-subheading text-muted">Precio: $399.00</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+                        <!-- Portfolio item 5-->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal5">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="https://m.media-amazon.com/images/I/51lUGMIZzEL._AC_.jpg" alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">Audífono Gamer con Micrófono</div>
+                                <div class="portfolio-caption-subheading text-muted">Precio:	$50.00</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <!-- Portfolio item 6-->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal6">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="https://m.media-amazon.com/images/I/61lyO8aNOaL._AC_SL1500_.jpg" alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">Hisemy Cámara Web 2K</div>
+                                <div class="portfolio-caption-subheading text-muted">Precio:	$50.00</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- About-->
+        <section class="page-section" id="about">
+           
+        </section>
+        <!-- Team-->
+        <section class="page-section bg-light" id="team">
+            <div class="container">
+                
+               
+            </div>
+        </section>
+        <!-- Clients-->
+        <div class="py-5">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-3 col-sm-6 my-3">
+                      
+						
+					<a href="https://www.microsoft.com/es-sv/"><img src="assets/img/logos/microsoft.svg"></a>
+						
+						
+                    </div>
+                    <div class="col-md-3 col-sm-6 my-3">
+                       
+						
+						<a href="https://www.google.com/"><img src="assets/img/logos/google.svg"></a>
+						
+                    </div>
+                    <div class="col-md-3 col-sm-6 my-3">
+                       
+						<a href="https://www.facebook.com/"><img src="assets/img/logos/facebook.svg"></a>
+                    </div>
+                    <div class="col-md-3 col-sm-6 my-3">
+                    
+						
+							<a href="https://www.ibm.com/planetwide/"><img src="assets/img/logos/ibm.svg"></a>
+						
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Contact-->
+        <section class="page-section" id="contact">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Contact Us</h2>
+                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                </div>
+                <!-- * * * * * * * * * * * * * * *-->
+                <!-- * * SB Forms Contact Form * *-->
+                <!-- * * * * * * * * * * * * * * *-->
+                <!-- This form is pre-integrated with SB Forms.-->
+                <!-- To make this form functional, sign up at-->
+                <!-- https://startbootstrap.com/solution/contact-forms-->
+                <!-- to get an API token!-->
+                <form id="contactForm" data-sb-form-api-token="API_TOKEN">
+                    <div class="row align-items-stretch mb-5">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <!-- Name input-->
+                                <input class="form-control" id="name" type="text" placeholder="Your Name *" data-sb-validations="required" />
+                                <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
+                            </div>
+                            <div class="form-group">
+                                <!-- Email address input-->
+                                <input class="form-control" id="email" type="email" placeholder="Your Email *" data-sb-validations="required,email" />
+                                <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
+                                <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
+                            </div>
+                            <div class="form-group mb-md-0">
+                                <!-- Phone number input-->
+                                <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" data-sb-validations="required" />
+                                <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group form-group-textarea mb-md-0">
+                                <!-- Message input-->
+                                <textarea class="form-control" id="message" placeholder="Your Message *" data-sb-validations="required"></textarea>
+                                <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Submit success message-->
+                    <!---->
+                    <!-- This is what your users will see when the form-->
+                    <!-- has successfully submitted-->
+                    <div class="d-none" id="submitSuccessMessage">
+                        <div class="text-center text-white mb-3">
+                            <div class="fw-bolder">Form submission successful!</div>
+                            To activate this form, sign up at
+                            <br />
+                            <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
+						
+                        </div>
+                    </div>
+					
+                    <!-- Submit error message-->
+                    <!---->
+                    <!-- This is what your users will see when there is-->
+                    <!-- an error submitting the form-->
+                    <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error sending message!</div></div>
+                    <!-- Submit Button-->
+                    <div class="text-center"><button class="btn btn-primary btn-xl text-uppercase disabled" id="submitButton" type="submit">Send Message</button></div>
+                </form>
+				
+				
+				
+		
+				
+				
+				
+				
+				
+            </div>
+        </section>
+        <!-- Footer-->
+        <footer class="footer py-4">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-4 text-lg-start">Copyright &copy;Benitez 2021</div>
+                    <div class="col-lg-4 my-3 my-lg-0">
+                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                    <div class="col-lg-4 text-lg-end">
+                        <a class="link-dark text-decoration-none me-3" href="#!">Privacy Policy</a>
+                        <a class="link-dark text-decoration-none" href="#!">Terms of Use</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Portfolio Modals-->
+        <!-- Portfolio item 1 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">HP Laptop </h2>
+                                    <p class="item-intro text-muted">HP Laptop de 14 Pulgadas Intel Celeron N4020 4 GB 64 GB, Intel UHD Graphics 600, Windows 10 Home en Modo S, Cable HDMI GS (Azul)</p>
+                                    <img class="img-fluid d-block mx-auto" src="https://m.media-amazon.com/images/I/61pyzmeTZ3S._AC_SL1000_.jpg" alt="..." />
+                                    <p>  <li>Intel Celeron N4020 1.1GHz 4GB 64GB SSD</p>
+ <li>Series	HP Chromebook
+Marca	HP
+Usos específicos del producto	Personal
+Tamaño de la pantalla	14 Pulgadas
+Sistema operativo	Windows 10 S</p>
+<li>
+                                            <strong>Acerca de este artículo  </li>
+Intel Celeron N4020 1.1GHz 4GB 64GB SSD
+Intel UHD Graphics 600 1366 x 768 (HD)
+Cámara HP True Vision HD
+Micrófonos de doble arreglo
+Windows 10 Home en modo S con cable HDMI GS</p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Precio:	</strong>
+                                             $6,119.00
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                            Equipo Informatico
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-times me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio item 2 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">Imac</h2>
+                                    <p class="item-intro text-muted">Apple Nuevo iMac (de 21.5 Pulgadas, Procesador Intel Core i3 Quad Core de octava generación de 3.6 GHz, 8 GB RAM, 256 GB SSD)</p>
+                                    <img class="img-fluid d-block mx-auto" src="https://cdn.pixabay.com/photo/2015/01/21/14/14/apple-606761_960_720.jpg" alt="..." />
+                                    <p>
+<li>Apple Nuevo iMac (de 21.5 Pulgadas, Procesador Intel Core i3 Quad Core de octava generación de 3.6 GHz, 8 GB RAM, 256 GB SSD)Size name: 21.5 pulgadas
+Estilo: Intel Core i3 8ª Gen a 3.6 GHZ
+Usos específicos del producto	Multimedia, Empresa, Personal
+Nombre del modelo	IMac
+Sistema operativo	Mac OS X 10.13 High Sierra
+Modelo de CPU	Intel Core i3
+Marca	Apple</p>
+<li>
+                                            <strong>Acerca de este artículo  </li>
+<li>Pantalla Retina 4K de 21.5 pulgadas (diagonal) con resolución de 4096 x 2304</p>
+<li>Procesador Intel Core i3 de 4 núcleos o Intel Core i5 de 6 núcleos de octava generación</p>
+<li>Procesador gráfico AMD Radeon Pro 555X o 560X</p>
+<li>Almacenamiento SSD ultrarrápido</p>
+<li>Dos puertos Thunderbolt 3 (USB-C)</p>
+<li>Cuatro puertos USB-A</p>
+<li>Puerto Gigabit Ethernet</p>
+<li>Cámara FaceTime HD</p>
+<li>Wi-Fi 802.11ac y Bluetooth 4.2</p>
+<li>Visítanos directamente en la página de Apple para agregar la cobertura de AppleCare+</p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Precio:	</strong>
+                                           $36,999.00
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                             Equipo Informatico
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-times me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio item 3 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">HP Laptop</h2>
+                                    <p class="item-intro text-muted">Pasa el mouse encima de la imagen para aplicar zoom
+                                          HP Laptop Intel Core i3-1115G4, 4-GB DDR4-2666 MHz, 256GB SSD Win 10 Home S</p>
+                                    <img class="img-fluid d-block mx-auto" src="https://m.media-amazon.com/images/I/716fWpV+2kS._AC_SL1500_.jpg" alt="..." />
+                                    <p>
+<li>Marca	HP
+Tamaño de la pantalla	14 Pulgadas
+Sistema operativo	Windows 10 Home
+Fabricante del CPU	Intel
+Tamaño del disco duro	256 GB
+ <li>
+                                            <strong>Acerca de este artículo  </li>
+<li>11a Generación Intel Core i3-1115G4(2b) Dual-Core, Hasta 4.1 GHz con Intel Turbo Boost Technology</p>
+<li>4 GB DDR4-2666 MHz RAM (1 x 4 GB)</p>
+<li>14.0 " diagonal, FHD (1920 x 1080), micro-edge, anti-glare, 250 nits, 45% NTSC</p>
+<li>Peso 1.46 kg, Batería hasta 9 hr y 15 minutos</p>
+<li>Lector de huellas, Disco duro sólido de 256 gb</p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Precio:	</strong>
+                                            $9,299.00
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                          Equipo Informatico
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-times me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio item 4 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">
+Salandens Kit Teclado Y Mouse Alambrico Gamer</h2>
+                                    <p class="item-intro text-muted">
+Salandens Kit Teclado Y Mouse Alambrico Gamer, Juego De Teclado y Mouse Combo Wired Arco Iris LED Retroiluminado USB Teclado De Juego Metal.</p>
+                                    <img class="img-fluid d-block mx-auto" src="https://m.media-amazon.com/images/I/717VQD-M1pL._AC_SL1500_.jpg" alt="..." />
+                                    <p>  <li>✔ 【TECLADO DE JUEGO PROFESIONAL】El panel de teclado para juegos adopta todos los materiales metálicos, resistentes a derrames, a prueba de golpes y resistentes al desgaste. Tapones UV recubiertos, se sienten más cómodos. Mayor durabilidad y retroalimentación táctil. Teclado perfecto para varios juegos,Salandens El teclado para juegos te lleva a una atmósfera de juego inmersiva.  </li>
+  <li>✔ 【104 TECLADO DE TECLAS】El teclado le permite hacer clic simultáneamente en varias teclas, 19 teclas no conflictivas y 12 teclas de teclado multimedia, la tecnología anti-fantasma teclas múltiples para trabajar simultáneamente para proporcionar una respuesta rápida al juego. Evite las salpicaduras de agua, la ergonomía, las teclas de arco, las líneas suaves, la sensación de comodidad y la antifatiga. Los teclados de juegos te brindan una excelente experiencia de juego. </li>
+  <li>【Luz de fondo LED fría y Plug and Play】El efecto de retroiluminación de arco iris te dará una gran experiencia visual por la noche.no requiere software ni firmware adicional. Soporte del sistema: Windows 2000/ 2003/ Win7/ 8/ 10/ Vista/ME/Mac OS/Linux....o posterior. Se utiliza con ordenadores portátiles/de escritorio. Perfecto para la oficina en casa o el lugar de trabajo.</li>
+  <li>【Máxima comodidad】el ergonómico permite que la teclado se coloque cómodamente en el teclado, haciendo que la muñeca sea más fácil. El ángulo de teclado adecuado puede maximizar la comodidad de su mano para satisfacer las necesidades de un juego o trabajo de larga duración.</li>
+  <li>【Ratón】Elige entre 7 colores de luz que ilumina tu Mouse,Los cables de mouse suelen ser un problema por su longitud. Con 1.5m, será suficiente para que puedas moverte y tener la libertad que necesitas.!</p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Precio: </strong>
+                                           $399.00
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                           Dispositivo de entrada de Datos
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-times me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio item 5 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">Audífono Gamer con Micrófono</h2>
+                                    <p class="item-intro text-muted">Dasking Cascos Gaming, Audífono Gamer con Micrófono para PS4 XBOX ONE PC Auricular de Diadema para Juegos con LED Luz Control Volumen Sonido Envolvente Conexión Auxiliar de 3.5mm Cancelación de Ruido para Computadora Portátil, Tableta y Celular</p>
+                                    <img class="img-fluid d-block mx-auto" src="https://m.media-amazon.com/images/I/51lUGMIZzEL._AC_.jpg" alt="..." />
+                                    <p>
+									<li>
+                                            <strong>Acerca de este artículo  </li>
+<li>♬【Superior Compatibilidad】Compatible con la consola de PlayStation 4, XBOX ONE, NINTENDO SWITCH, PSP, PC, computadora portátil, iPad, tabletas, celulares de sistema iOS o Android. Por favor dé cuenta de que los modelos viejos se requiere un adaptador para la conexión</p>
+<li>♬【Micrófono Omnidireccional】El micrófono puede capturar el sonido en todas las direcciones y reducir el ruido con tecnología avanzada, que le permite a escuchar y hablar de alta claridad. Tiene el controlador de volumen y el botón de silencio, que puede ajustar el volumen y encender/apagar el micrófono sencillamente</p>
+<li>♬【Diseño Ergonómico】Las orejeras grandes están hechas de cuero proteico transpirable, el diadema con esponja elástica y peso ligero de menos de 0.4kg que le ofrece el tacto suave y uso cómodo aunque después de horas de juegos, el micrófono de silicona soporta la rotación de 360° para el uso con conveniencia</p>
+<li>♬【Sonido Envolvente Potente】El 50mm Driver le ofrece el sonido estéreo extraordinario, los potentes efectos de sonido envolvente le hacen sentir como si estuviera en el juego. Se ve súper chulo con la LED luz al conectar el USB cable, diadema ajustable que adecuado para hombre, mujer y adolescentes</p>
+
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Precio: </strong>
+                                           $50.00
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                           Sonido
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-times me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio item 6 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">Hisemy Cámara Web 2K</h2>
+                                    <p class="item-intro text-muted">Hisemy Cámara Web 2K, Webcam HD PC con Microfono, Cámara de Computadora USB con Micrófono Dual Integrado para PC Mac Portátil de Computadora, Cámara para Laptop de Reducción de Ruido para OBS Xbox XSplit Skype Facebook.</p>
+                                    <img class="img-fluid d-block mx-auto" src="https://m.media-amazon.com/images/I/61lyO8aNOaL._AC_SL1500_.jpg" alt="..." />
+                                    <p>Marzo	Hisemy
+Resolución de captura de video	1080p
+Tecnología de conectividad	USB
+<li>
+                                            <strong>Acerca de este artículo  </li>
+<li>Tecnología de visualización avanzada: cámara web Full HD 2K, diseñada para videollamadas, grabaciones y reuniones de calidad profesional, con una velocidad de fotogramas de hasta 30 FPS.</li>
+<li> Repare de forma inteligente el ruido para mejorar la nitidez de la imagen. La cámara web de transmisión profesional puede ajustar automáticamente el color y el brillo de la luz natural, por lo que incluso en condiciones de poca luz, siempre puede permanecer hermosa frente a la cámara web.</li>
+<li>Fácil de instalar y colocar: la cámara web USB es plug-and-play, no se requieren controladores adicionales.</li>
+<li> Equipado con un trípode, es conveniente que coloque la cámara de la computadora, y la cámara se puede colocar arbitrariamente con el trípode.</li>
+ <li>El cable de alimentación USB lo hace adecuado para computadoras portátiles, computadoras de escritorio, Mac y otros elementos para satisfacer sus necesidades de múltiples ángulos.</li>
+<li>Micrófono de reducción de ruido incorporado: hay micrófonos en ambos lados de la cámara, que pueden capturar el sonido real desde cualquier ángulo, y su voz es natural y clara.</li>
+ <li>El audio se puede realizar dentro de los 20 cm. 
+<li>Los micrófonos omnidireccionales que absorben y reducen el ruido pueden mejorar el sonido y eliminar automáticamente el ruido de fondo.</li>
+<li>Privacidad y diseño a prueba de polvo: Le proporcionaremos un escudo de privacidad y un soporte para trípode cuando compre la cámara. </li>
+<li>Una cámara web de computadora con un escudo de privacidad le permite disfrutar de una vida de red digital segura cuando no está en uso, y evita que los piratas informáticos lo espíen. </li>
+<li>Al mismo tiempo, también puede evitar que el polvo y otras impurezas dañen la cámara, lo que protege eficazmente su privacidad al tiempo que protege la cámara.</li>
+<li>Ajuste libre del ángulo: la cámara es ajustable en 360 grados y el ángulo de disparo se puede ajustar de manera constante y constante. </li>
+<li>En el escritorio, use el trípode correspondiente para fijar el monitor (sin dañar la pantalla) y gire libremente el ángulo, lo que puede reflejar un efecto más perfecto en las reuniones diarias y el disparo.!</p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Precio: </strong>
+                                          $150.00
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                            Video
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-times me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
+
+		 
+		 
+		 
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <!-- * *                               SB Forms JS                               * *-->
+        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    </body>
+</html>
